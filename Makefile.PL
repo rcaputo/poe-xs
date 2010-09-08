@@ -1,5 +1,4 @@
 #!perl
-# $Id$
 
 use ExtUtils::MakeMaker;
 use warnings FATAL => 'all';

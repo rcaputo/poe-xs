@@ -1,4 +1,3 @@
-# $Id$
 package POE::XS;
 
 use 5.006001;
